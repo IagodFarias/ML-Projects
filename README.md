@@ -45,10 +45,3 @@ processes like :
 - Section 2 | The Model :<br>
 The dataset is ready for training, so we create a naive classifier using scikit-learn and thin fit it to the data, and finally we evaluate the model by getting accuracy, classification report and confusion matrix<br>
 
-
-
-<!-- CONTACT -->
-## <br>**➲ Contact**
-- E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
-- Facebook : https://www.facebook.com/omaarelshereif
